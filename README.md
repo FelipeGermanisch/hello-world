@@ -1,2 +1,5 @@
 # hello-world
-New-in-programming project
+
+Hi humans!
+
+I'm learning programming skills.
